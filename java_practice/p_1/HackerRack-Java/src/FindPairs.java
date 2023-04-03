@@ -1,9 +1,4 @@
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.stream.Collectors;
-import java.util.stream.IntStream;
+
 
 //There is a large pile of socks that must be paired by color. 
 //Given an array of integers representing the color of each sock, 
